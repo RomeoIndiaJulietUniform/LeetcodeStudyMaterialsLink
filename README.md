@@ -11,3 +11,8 @@ This repository contains a curated list of helpful resources for preparing for t
 ### Graph Algorithms 🌐
 
 - [Graph algorithms + problems to practice](https://leetcode.com/discuss/study-guide/1326900/Graph-algorithms-%2B-problems-to-practice)
+
+### Dynamic Programming 📈
+
+- [Curated List of Dynamic Programming Problems](https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Category-wise)
+
