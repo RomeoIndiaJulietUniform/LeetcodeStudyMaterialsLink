@@ -26,6 +26,8 @@ public:
     }
 };
 
+// Time complexity: O(n log n)
+// Space complexity: O(1)
 
 
 
@@ -47,3 +49,9 @@ public:
         
     }
 };
+
+
+
+
+// Time complexity: O(n)
+// Space complexity: O(1)

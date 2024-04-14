@@ -1,6 +1,10 @@
 # Interview Preparation Resources 📚
 
-This repository contains a curated list of helpful resources for preparing for uplifting DSA concepts &&  technical interviews. You will find the solution codes in the above folders
+This repository contains a curated list of helpful resources for uplifting DSA concepts && for preparing technical interviews. You will find the solution codes in the above folders. Thank you for visiting, and best of luck with your preparation! 🚀
+
+
+Feel free to ask any question in the issues section of the repository, I will try my best to help.
+
 
 ## Topics
 
